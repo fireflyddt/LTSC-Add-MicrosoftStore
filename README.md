@@ -1,5 +1,5 @@
 
-# 为Windows 10 Enterprise LTSC增加应用商店  
+# 为Windows 10 Enterprise LTSC安装应用商店  
 适用于Windows 10 Enterprise LTSC 
 ([下载地址](https://github.com/fireflyddt/LTSC-Add-MicrosoftStore/releases/download/v1.0/LTSC-Add-MicrosoftStore-2019.zip))  
 ## 要开始安装, 请打包下载后用右键管理员运行 Add-Store.cmd   
