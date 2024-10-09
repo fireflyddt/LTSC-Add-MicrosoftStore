@@ -1,6 +1,6 @@
 
 # 为Windows 10 Enterprise LTSC增加应用商店  
-适用于Windows 10 Enterprise LTSC 2019    
+适用于Windows 10 Enterprise LTSC 
 [下载地址]([https://github.com/lixuy/LTSC-Add-MicrosoftStore/archive/2019.zip](https://github.com/fireflyddt/LTSC-Add-MicrosoftStore/releases/download/v1.0/LTSC-Add-MicrosoftStore-2019.zip))  
 ## 要开始安装, 请打包下载后用右键管理员运行 Add-Store.cmd   
 如果您不想安装App Installer / Purchase App / Xbox，请在运行安装之前删除对应的.appxbundle后缀的文件。但是，如果您计划安装游戏，或带有购买选项的应用，则不要删除。   
